@@ -17,8 +17,19 @@ A secure and anonymous VPN solution for privacy-focused users.
 
 ## Contributing
 Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+# Contributing Guide
 
-#MIT License
+We welcome contributions to the AnonymousVPN project! Here's how you can help:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/YourFeatureName`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature/YourFeatureName`.
+5. Open a pull request.
+
+Please ensure your code follows best practices and includes proper documentation.
+
+##MIT License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 MIT License
 

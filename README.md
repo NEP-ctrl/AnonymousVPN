@@ -29,7 +29,7 @@ We welcome contributions to the AnonymousVPN project! Here's how you can help:
 
 Please ensure your code follows best practices and includes proper documentation.
 
-##MIT License
+#MIT License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 MIT License
